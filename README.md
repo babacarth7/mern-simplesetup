@@ -21,4 +21,5 @@ Before you start, ensure you have the following installed on your system:
    yarn
 
    yarn development
+   open http://localhost:3000 in your default browser
    ```
